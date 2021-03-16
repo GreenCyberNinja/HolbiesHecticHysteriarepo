@@ -4,7 +4,7 @@
 In this fast paced pixle platformer you play as Holbie the Seahorse.
 As he treks accross his littered home to find the polluting perpatrators
 can you help this plucky hippocampus?
-try the demo [HERE](https://greencyberninja.github.io/)
+try the dem0 [HERE](https://greencyberninja.github.io/)
 
 ## Features
 
