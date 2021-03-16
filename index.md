@@ -29,4 +29,7 @@ this is a portfolio project for [HolbertonSchool](https://holbertontulsa.com/)
 </br>
 [Github](https://github.com/GreenCyberNinja)
 #### Ryan Devlin
+[LinkedIn](https://www.linkedin.com/in/ryan-devlin-1151b81a9/)
+</br>
+[Github](https://github.com/BardoftheOzarks)
 #### Osama Basheer
