@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+![title gif](/images/pixil-gif-drawing.gif)
 
-You can use the [editor on GitHub](https://github.com/GreenCyberNinja/HolbiesHecticHysteriarepo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Holbies Hectic Hysteria
+In this fast paced pixle platformer you play as Holbie the Seahorse.
+As he treks accross his littered home to find the polluting perpatrators
+can you help this plucky hippocampus?
+try the dem0 [HERE](https://greencyberninja.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
 
-### Markdown
+### Run and Jump Your Way to Victory
+as holbie you'll need to run and jump through this platformer shooter
+to get to the end of the game before time runs out
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Blast enemies with your buble blaster
+Blast enemies with your bubble blaster to add additional time to your score
 
-```markdown
-Syntax highlighted code block
+### Compete To Get The Highscore
+the most amount of time at the end of the game wins
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GreenCyberNinja/HolbiesHecticHysteriarepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## About
+This project is heavily inspired by HolbertonSchools and various alumni-centered jokes.
+It is also partly inspired by the ongoing pollution of the worlds oceans and how that is a
+"villian" we all should be trying to defeat.
+this is a portfolio project for [HolbertonSchool](https://holbertontulsa.com/)
+### Check US out
+#### David Duval
+[LinkedIn](https://www.linkedin.com/in/david-duval-a521b81a9/)
+</br>
+[Github](https://github.com/GreenCyberNinja)
+#### Ryan Devlin
+[LinkedIn](https://www.linkedin.com/in/ryan-devlin-1151b81a9/)
+</br>
+[Github](https://github.com/BardoftheOzarks)
+#### Osama Basheer
