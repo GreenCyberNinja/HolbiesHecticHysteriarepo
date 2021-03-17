@@ -11,15 +11,15 @@ try the dem0 [HERE](https://greencyberninja.github.io/)
 ### Run and Jump Your Way to Victory
 as holbie you'll need to run and jump through this platformer shooter
 to get to the end of the game before time runs out
-[image](/images/gameplayA.png)
+![image](/images/gameplayA.png)
 
 ### Blast enemies with your buble blaster
 Blast enemies with your bubble blaster to add additional time to your score
-[image](/images/gamplaysnippet.png)
+![image](/images/gamplaysnippet.png)
 
 ### Compete To Get The Highscore
 the most amount of time at the end of the game wins
-[image](/images/highscore.png)
+![image](/images/highscore.png)
 
 ## About
 This project is heavily inspired by HolbertonSchools and various alumni-centered jokes.
