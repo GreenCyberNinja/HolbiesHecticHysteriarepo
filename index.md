@@ -29,10 +29,8 @@ this is a portfolio project for [HolbertonSchool](https://holbertontulsa.com/)
 ### Check US out
 #### David Duval
 [LinkedIn](https://www.linkedin.com/in/david-duval-a521b81a9/)
-</br>
 [Github](https://github.com/GreenCyberNinja)
 #### Ryan Devlin
 [LinkedIn](https://www.linkedin.com/in/ryan-devlin-1151b81a9/)
-</br>
 [Github](https://github.com/BardoftheOzarks)
 #### Osama Basheer
