@@ -9,3 +9,7 @@ this was my year1 capstone project from holberton school. I decided to develop t
 
 ## Future plans
 I don't really have any future plans for this repo or version of HHH as I want to keep as a marker for how far I've come since starting holberton and how far I will develop since this project. I will probably revise this again sometimne down the rode for nostalgia purposes
+
+Authors
+David Duval
+[linkedin](https://www.linkedin.com/in/david-duval-a521b81a9/)
